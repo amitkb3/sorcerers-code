@@ -8,4 +8,3 @@ if g.ls_files.has_key?("scene-4.txt")
 else
   exit 1
 end
-
